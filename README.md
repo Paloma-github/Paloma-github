@@ -1,4 +1,4 @@
-- 👋 Fala, galera! Bem-vindos ao meu perfil!
+- 👋 Fala, galera! Bem-vindos!
 - 👽 Este perfil foi criado para compartilhar meus projetos práticos (Hands-on) desenvolvidos ao longo dos cursos que venho fazendo.
 - 🛸 Atualmente, estou me dedicando ao aprendizado de AI, AWS, AZURE, IAM, DevOps, Cibersegurança, Cloud, etc...
 - 🧑‍💻 How to reach me: <a href="https://www.linkedin.com/in/paloma-lima-it/
